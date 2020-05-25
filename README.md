@@ -1,4 +1,4 @@
-# Vehware-ROME-team
+# Blink Detection
 
 Project requires Python 3.7, dlib, opencv,playsound, math libraries.
 
